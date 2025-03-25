@@ -6,7 +6,8 @@
 
 - 🌱 *Sou alguém em busca de projetos, algo mais profissional relacionado a essa área da progamação, sempre em busca de novas oportunidades já que eu gosto de progamar e pretendo participar na criação de algum app ou jogo famoso, pretendo seguir a carreira de gamer profissional, mas tambem de progamador.* 🎮📂
 
--  *Sou um bom jogador  de Rocket League, já tendo pego Platina varias vezes.*![Xbox](https://img.shields.io/badge/xbox-%23107C10.svg?style=for-the-badge&logo=xbox&logoColor=white) 
+-  *Sou um bom jogador  de Rocket League, já tendo pego Platina varias vezes.*
+-  ![Xbox](https://img.shields.io/badge/xbox-%23107C10.svg?style=for-the-badge&logo=xbox&logoColor=white) 
 
 
 
